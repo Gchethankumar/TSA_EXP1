@@ -4,6 +4,7 @@
 # AIM:
 To Develop a python program to Plot a time series data (population/ market price of a commodity
 /temperature.
+
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
 2. Read the dataset using the pandas
@@ -11,8 +12,10 @@ To Develop a python program to Plot a time series data (population/ market price
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
 # PROGRAM:
+
 ### Developed by: G Chethan Kumar
 ### Reference Number:212222240022
+
 ## POPULATION:
 ```
 import matplotlib.pyplot as plt
