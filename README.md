@@ -1,9 +1,11 @@
-# Ex.No: 01 PLOT A TIME SERIES DATA
+### Developed by: G Chethan Kumar
+### Reference Number:212222240022
 ###  Date: 
 
+# Ex.No: 01 PLOT A TIME SERIES DATA
+
 # AIM:
-To Develop a python program to Plot a time series data (population/ market price of a commodity
-/temperature.
+To Develop a python program to Plot a time series data of a Company's Revenue.
 
 # ALGORITHM:
 1. Import the required packages like pandas and matplot
@@ -11,9 +13,6 @@ To Develop a python program to Plot a time series data (population/ market price
 3. Calculate the mean for the respective column.
 4. Plot the data according to need and can be altered monthly, or yearly.
 5. Display the graph.
-
-### Developed by: G Chethan Kumar
-### Reference Number:212222240022
 
 # PROGRAM:
 ```
